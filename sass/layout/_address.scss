@@ -5,7 +5,7 @@
   flex-direction: column;
 }
 
-.mail-footer {
+.footer__mail {
   margin-bottom: 9px;
   color: rgba(255, 255, 255, 0.6);
 
@@ -19,7 +19,7 @@
   }
 }
 
-.tel-footer {
+.footer__tel {
   margin-bottom: 9px;
   color: rgba(255, 255, 255, 0.6);
 
@@ -33,6 +33,6 @@
   }
 }
 
-.address-text {
+.address__text {
   margin-bottom: 9px;
 }

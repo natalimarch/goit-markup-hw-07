@@ -1,6 +1,8 @@
-.clients-title {
+.clients__title {
   margin-bottom: 50px;
+}
 
+.title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -8,16 +10,16 @@
   color: var(--secondary-text-color);
 }
 
-.clients-list-list {
+.clients__list {
   display: flex;
   justify-content: space-between;
 }
 
-.clients-list-item {
+.clients__item {
   display: flex;
 }
 
-.clients-list-link {
+.clients__link {
   display: flex;
   justify-content: center;
   align-items: center;

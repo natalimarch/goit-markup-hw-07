@@ -1,4 +1,4 @@
-.filter-title {
+.filter__title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -6,12 +6,12 @@
   color: var(--secondary-text-color);
 }
 
-.filter-list {
+.filter__list {
   display: flex;
   justify-content: center;
   margin-bottom: 56px;
 }
 
-.filter-list-item:not(:last-child) {
+.filter__item:not(:last-child) {
   margin-right: 8px;
 }

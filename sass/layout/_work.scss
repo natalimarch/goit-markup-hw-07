@@ -1,10 +1,10 @@
-.work-list {
+.work__list {
   display: flex;
   margin-right: -30px;
   margin-bottom: -30px;
 }
 
-.work-title {
+.title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -12,7 +12,7 @@
   color: var(--secondary-text-color);
 }
 
-.work-list-item {
+.work__item {
   flex-basis: calc((100% - 90px) / 3);
 
   margin-right: 30px;
@@ -20,16 +20,16 @@
   margin-top: 50px;
 }
 
-.work-section-add {
+.work_section {
   padding-top: 47px;
   padding-bottom: 94px;
 }
 
-.work-list-item-card {
+.work__item-card {
   position: relative;
 }
 
-.work-text {
+.work__block {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -38,7 +38,7 @@
   background-color: rgba(47, 48, 58, 0.8);
 }
 
-.work-text-text {
+.work__text {
   padding-top: 27px;
   padding-bottom: 27px;
   font-weight: 700;

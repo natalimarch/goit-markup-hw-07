@@ -5,7 +5,7 @@
   margin-right: 93px;
 }
 
-.social-links-footer-title {
+.social-links-footer__title {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -14,10 +14,10 @@
   margin-bottom: 20px;
 }
 
-.social-link-group-item:not(:last-child) {
+.social-links__item:not(:last-child) {
   margin-right: 10px;
 }
 
-.social-link-item-footer {
+.social-links-footer__item {
   background-color: rgba(255, 255, 255, 0.1);
 }
